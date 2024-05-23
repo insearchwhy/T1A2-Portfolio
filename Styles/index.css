@@ -15,9 +15,29 @@ body {
 }
 
 .logo-name a img {
-     height: 100px;
+    height: 100px;
+   
 }
 
 .name {
     font-size: 24px;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+.Imaginative-text {
+    color: #ff0028;
 }
+
+.Computer-text {
+    color: #1400c6;
+}
+
+.Services-text {
+    color: #ff0028;
+}
+
+.navigation {
+    width: 100%;
+    display: flex;
+}
+
