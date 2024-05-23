@@ -1,0 +1,23 @@
+
+:root {
+    --primary color: #fff;
+}
+
+header {
+    background-color: #beef00;
+    text-align: center;
+    padding: 16px;
+    
+}
+
+body {
+    margin: 0;
+}
+
+.logo-name a img {
+     height: 100px;
+}
+
+.name {
+    font-size: 24px;
+}
