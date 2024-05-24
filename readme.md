@@ -9,3 +9,6 @@ I will keep adding the features in readme that i will add to the website
 
 ### Header
 The header component has a logo and name of the company along with the navigation bar. The navigation bar has links to navigate to different pages.
+
+### Footer
+The footer component now has all social media links and the information of the company.
