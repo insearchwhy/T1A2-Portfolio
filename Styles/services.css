@@ -1,0 +1,16 @@
+main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 32px;
+}
+
+article {
+    background-color: #beef00;
+    border-radius: 16px;
+    text-align: center;
+}
+
+.services-image {
+    width: 400px;
+}

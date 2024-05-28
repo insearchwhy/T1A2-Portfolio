@@ -12,3 +12,6 @@ The header component has a logo and name of the company along with the navigatio
 
 ### Footer
 The footer component now has all social media links and the information of the company.
+
+### Main
+The main component which included the feature image and write up of the company.
