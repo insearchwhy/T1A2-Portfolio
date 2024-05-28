@@ -15,3 +15,11 @@ The footer component now has all social media links and the information of the c
 
 ### Main
 The main component which included the feature image and write up of the company.
+
+## Pages
+
+### Home
+The home page displays the feature image with text needing a redo
+
+### Services 
+The services page has been complete with images and text
