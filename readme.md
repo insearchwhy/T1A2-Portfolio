@@ -23,3 +23,6 @@ The home page displays the feature image with text needing a redo
 
 ### Services 
 The services page has been complete with images and text
+
+### About
+The About page uses css grid to show some information about the company.
