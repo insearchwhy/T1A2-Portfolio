@@ -1,3 +1,4 @@
+
 main {
     display: flex;
     align-items: center;
@@ -11,10 +12,11 @@ main {
     flex-direction: column;
     margin-bottom: 24px;
 }
-
+/*text size for information*/
 .form-elements label {
     font-size: 18px;
 }
+/*user input area*/
 .form-input {
     border: 3px solid #beef00;
     border-radius: 4px;
@@ -25,24 +27,26 @@ main {
 .form-input:not(.form-textarea) {
     height: 35px;
 }
-
+/*user cant resize box*/
 .form-textarea {
     resize: none;
 }
-
+/*effect added*/
 .form-input:focus {
     box-shadow: 0px 2px 13px 5px #beef00;
 }
+/*button*/
 .button-div {
     text-align: center;
 }
-
+/*button style*/
 #submit {
     height: 40px;
     background-color: aliceblue;
     min-width: 120px;
     font-size: 18px;
 }
+/*hand when hovering over submit*/
 #submit:hover {
     cursor: pointer;
     background-color: #beef00;

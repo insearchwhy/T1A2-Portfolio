@@ -1,16 +1,18 @@
+
+/* created gap main part*/
 main {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     gap: 32px;
 }
-
+/*color for text and box size*/
 article {
     background-color: #beef00;
     border-radius: 16px;
     text-align: center;
 }
-
+/*width for images on service page*/
 .services-image {
     width: 400px;
 }

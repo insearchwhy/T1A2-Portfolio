@@ -2,7 +2,7 @@
 :root {
     --primary color: #fff;
 }
-
+/* This is the primary header featured throught all pages*/
 header {
     
     background-color: #beef00;
@@ -23,7 +23,7 @@ body {
     justify-content: space-between;
     
 }
-
+/* logo featured in primary banner throughout website*/
 .logo-name a img {
     height: 100px;
    
@@ -37,26 +37,26 @@ body {
    
   
 }
-
+/*this was added to break up color if needed*/
 .Imaginative-text {
     color: black;
     
    
 }
-
+/*this was added to break up color if needed*/
 .Computer-text {
     color: black;
 }
-
+/*this was added to break up color if needed*/
 .Services-text {
     color: black;
 }
-
+/*navigation bar on top*/
 .navigation {
     width: 100%;
     display: flex;
     justify-content: space-around;
-    font-size: 20px;
+    font-size: 18px;
     color: #1400c6;
 }
 .navigation a {
@@ -101,7 +101,7 @@ footer {
     color: #1400c6;
     
 }
-
+/*footer text area*/
 .info {
     color: #1400c6;
     font-size: 24px;

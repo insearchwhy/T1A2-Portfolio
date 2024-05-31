@@ -1,9 +1,11 @@
+
+/*grid setuo for box container*/
 section {
     display: grid;
     grid-template-columns: 1fr 5fr 1fr;
     grid-template-rows: 50px 60px 1fr;
 }
-
+/*grid added with feature color to accentuate*/
 .heading {
     background-color: #beef00;
     text-align: center;
@@ -14,6 +16,7 @@ section {
     font-size: 18px;
     
 }
+/*grid for text placement*/
 .description {
     background-color: aliceblue;
     border: 1px solid black;

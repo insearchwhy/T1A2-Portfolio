@@ -9,7 +9,7 @@
   
         
         
-  
+  /*blog posts area containing content*/
         .container { 
             display: flex; 
             justify-content: space-between; 
@@ -38,7 +38,7 @@
             margin-right: 10px; 
            
         } 
-  
+  /*box on side with feature color*/
         aside { 
             flex: 1; 
             background-color: #beef00; 

@@ -28,4 +28,8 @@ The services page has been complete with images and text
 The About page uses css grid to show some information about the company.
 
 ### Contact
-Thw contact page has a form to fill up to contact the company but submit button doesnt work
+The contact page has a form to fill up to contact the company but submit button doesnt work
+
+### Blog
+The Blog page has been complete along with images and recent post list
+
