@@ -33,3 +33,32 @@ The contact page has a form to fill up to contact the company but submit button 
 ### Blog
 The Blog page has been complete along with images and recent post list
 
+### Final Finishing Touches
+All finidhing touches have now been complete 
+
+# Information and links for assignment
+
+## A link (URL) to your published portfolio website
+https://deanboric-t1a2-portfolio.netlify.app/
+
+## A link to your GitHub repo
+https://github.com/insearchwhy/T1A2-Portfolio
+
+## Description of your portfolio website, including,
+
+## Purpose
+To create a website presenting me as a dev and IT proffesional.
+
+## Functionality / features
+Added flexbox and grid! Links externally interally etc
+
+## Screenshots
+
+## Sitemap
+<img src="sitemap.jpg" alt="sitemap" />
+
+## Target audience
+People wanting to engage a web developer
+
+## Tech stack (e.g. html, css, deployment platform, etc)
+Included Html CSS netlify and github
